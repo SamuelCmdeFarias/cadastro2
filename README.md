@@ -44,7 +44,18 @@ Parte dos "Contatos" do site. É onde ficará a parte para entrar em contato com
 ## Funcionalidades
 
 ### Tecnologias utilizadas
-
+Utilizamos o HTML para estruturar nossa página, incluindo texto e imagens. O CSS é responsável pelo design, como cores e layout. Juntos, eles tornam nossa página funcional e atraente.
 ## Fontes consultadas
+Foram usadas o bootstrap para a estrutura inicial do site e o chat gpt para o melhoramento de textos e informações
+
+Tambem foi pedida a ajuda de nosso porfessor de programação web Leonardo rocha
+
+ 
+
+links:
+
+https://getbootstrap.com/docs/5.0/examples/cover/
+
+https://leonardorocha.eti.br/
 
 ## Autores
