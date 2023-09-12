@@ -16,8 +16,6 @@
 
 # Projeto - aprendendo a escrever um README
 
-![image info](img/capa.png)
-
 ## Descrição
 
 Uma página que serve como imagem de capa/menu onde terá as opções de "início", "Novidades" e "Contatos", além de contar com a opção "Ler Mais" que será usada para um texto muito grande.
