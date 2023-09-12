@@ -27,7 +27,10 @@ Ao clicar em Novidades o usuário será direcionado para o que há de novo na p�
 Ao clicar em Contatos o usuário será direcionado para a parte da página onde ele terá a opção de entrar em contato para tirar dúvidas ou fazer criticas construtivas.
 ## Introdução
 
-<img src=”img/capa.png” width="150" heigth="150">
+![image info](img/capa.png){
+    width:150px;
+    height:150px
+    }
 
 Parte inicial da página. Aqui é onde o usuário será direcionado caso selecione a opção "início" no topo da página.
 
