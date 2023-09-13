@@ -89,3 +89,12 @@ https://leonardorocha.eti.br/
 
 ## Autores
 
+**_Danilo Felype Lima_**
+
+ 
+
+**_Samuel Camargo de Farias_**
+
+ 
+
+**_Leonardo Fernando Freire Gomes de Souza_**
