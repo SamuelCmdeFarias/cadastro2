@@ -89,12 +89,12 @@ https://leonardorocha.eti.br/
 
 ## Autores
 
-**_Danilo Felype Lima_**[_Danilo Felype Lima_](https://github.com/DaniloFelype)
+[_Danilo Felype Lima_](https://github.com/DaniloFelype)
 
  
 
-**_Samuel Camargo de Farias_**
+[_Samuel Camargo de Farias_](https://github.com/SamuelCmdeFarias)
 
  
 
-**_Leonardo Fernando Freire Gomes de Souza_**
+[_Leonardo Fernando Freire Gomes de Souza_](https://github.com/ashuro-ryuki)
