@@ -41,24 +41,10 @@ Parte dos "Contatos" do site. É onde ficará a parte para entrar em contato com
 
 ## Funcionalidades
 
-![novidade](img/Novidades-imagem.png)
-
- 
-
 **Novidades**: Redireciona o usuário para a página de novidades, onde são colocados todas as atualizações do portfólio.
-
- 
-
-![contatos](img/Contato-imagem.png)
-
  
 
 **Contatos**: Redireciona o usuário para a página que contém formas de se comunicar com o administrador da página.
-
- 
-
-![ler-mais](img/LerMais-Imagem.png)
-
  
 
 **Ler mais**: Redireciona o usuário para a página onde o ira contar com um texto explicativo sobre a capa
@@ -78,23 +64,23 @@ Utilizamos o HTML para estruturar nossa página, incluindo texto e imagens. O CS
 Foram usadas o bootstrap para a estrutura inicial do site e o chat gpt para o melhoramento de textos e informações
 
 Tambem foi pedida a ajuda de nosso porfessor de programação web Leonardo rocha
-
  
+* [Bootstrap](https://getbootstrap.com) - O Modelo De Index Usado
 
-links:
+* [Alura](https://www.alura.com.br/artigos/escrever-bom-readme) - Como escrever um README incrível no seu Github
 
-https://getbootstrap.com/docs/5.0/examples/cover/
+* [Armstrong Lohãns](https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89) - Um modelo para fazer um bom README
 
-https://leonardorocha.eti.br/
+* [ChatGPT](https://chat.openai.com/) - Usado para melhorar e fazer correções nos textos
 
 ## Autores
 
-[_Danilo Felype Lima_](https://github.com/DaniloFelype)
+* [_Danilo Felype Lima_](https://github.com/DaniloFelype)
 
  
 
-[_Samuel Camargo de Farias_](https://github.com/SamuelCmdeFarias)
+* [_Samuel Camargo de Farias_](https://github.com/SamuelCmdeFarias)
 
  
 
-[_Leonardo Fernando Freire Gomes de Souza_](https://github.com/ashuro-ryuki)
+* [_Leonardo Fernando Freire Gomes de Souza_](https://github.com/ashuro-ryuki)
